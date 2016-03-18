@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[trapp]]></title>
+        <description><![CDATA[trapp]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 18 Mar 2016 13:17:53 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Algonquin]]></title>
+            <description><![CDATA[<article><h1>The Algonquin</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4605805-fce0-4dae-9ae7-d51234016085.png"></article>]]></description>
+            <link>undefinedthe-algonquin/index.html</link>
+            <guid isPermaLink="false">269084a7-2488-4e37-bdfe-bce6c3d58b69</guid>
+            <pubDate>Fri, 18 Mar 2016 13:17:52 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
