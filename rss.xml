@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[trapp]]></title>
         <description><![CDATA[trapp]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/trapp/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Mar 2016 13:17:53 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 24 Mar 2016 10:12:42 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/trapp/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Pavilion Penthouse]]></title>
+            <description><![CDATA[<h1>The Pavilion Penthouse</h1>]]></description>
+            <link>https://thegrid.ai/trapp/the-pavilion-penthouse/index.html</link>
+            <guid isPermaLink="false">5020c6a8-8f7d-43bf-bfba-a8168a4bc3cf</guid>
+            <pubDate>Thu, 24 Mar 2016 10:12:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Algonquin]]></title>
             <description><![CDATA[<article><h1>The Algonquin</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4605805-fce0-4dae-9ae7-d51234016085.png"></article>]]></description>
-            <link>undefinedthe-algonquin/index.html</link>
+            <link>https://thegrid.ai/trapp/the-algonquin/index.html</link>
             <guid isPermaLink="false">269084a7-2488-4e37-bdfe-bce6c3d58b69</guid>
             <pubDate>Fri, 18 Mar 2016 13:17:52 GMT</pubDate>
         </item>
